@@ -1,3 +1,11 @@
+## skills used in this project
+
+JavaScript, HTML, CSS, material UI, RESTful API
+
+
+
+## Project description
+
 This is a quiz platform where users can ...
 
 register, login and logout
@@ -15,6 +23,6 @@ Join a quiz made by other users (player)
 
 ---------------------------------------------
 
-this is my assignment at COMP6080 Web Front-End Programming, also my favourite course at UNSW.
+this is my assignment at COMP6080 Web Front-End Programming, also my favourite course at UNSW. see [original specification](https://github.com/Korokkk/UltimateBrain/blob/main/specification.md).
 Thank our great lecturer Hayden,
 super talent tutors Gordon, Aimen, Adrian,  Micheal!
